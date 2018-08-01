@@ -1,0 +1,7 @@
+D:\Jerwin\School\CS 415 Client Server\ClientTest\ClientTest\bin\Debug\ClientTest.exe.config
+D:\Jerwin\School\CS 415 Client Server\ClientTest\ClientTest\bin\Debug\ClientTest.exe
+D:\Jerwin\School\CS 415 Client Server\ClientTest\ClientTest\bin\Debug\ClientTest.pdb
+D:\Jerwin\School\CS 415 Client Server\ClientTest\ClientTest\obj\Debug\ClientTest.csprojAssemblyReference.cache
+D:\Jerwin\School\CS 415 Client Server\ClientTest\ClientTest\obj\Debug\ClientTest.csproj.CoreCompileInputs.cache
+D:\Jerwin\School\CS 415 Client Server\ClientTest\ClientTest\obj\Debug\ClientTest.exe
+D:\Jerwin\School\CS 415 Client Server\ClientTest\ClientTest\obj\Debug\ClientTest.pdb

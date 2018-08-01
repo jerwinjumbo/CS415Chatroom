@@ -1,0 +1,15 @@
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientApp\ClientApp\obj\Debug\MainWindow.g.cs
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientApp\ClientApp\obj\Debug\App.g.cs
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientApp\ClientApp\obj\Debug\ClientApp_MarkupCompile.cache
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientApp\ClientApp\obj\Debug\ClientApp_MarkupCompile.lref
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientApp\ClientApp\obj\Debug\MainWindow.baml
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientApp\ClientApp\obj\Debug\ClientApp.g.resources
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientApp\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
